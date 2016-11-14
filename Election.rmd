@@ -37,11 +37,11 @@ The content of my report is organized by following sections:
 
 5. Multivariate Plots Section: multiple plots for the relation between three and more variables.
 
-6. Multivariate Analysis: commment about the multivariate finding
+6. Multivariate Analysis: commment about the multivariate finding.
 
-7. Final Plots and Summary
+7. Final Plots and Summary.
 
-8. Reflection
+8. Reflection.
 
 ##Data structure
 ```{r echo = FALSE}
